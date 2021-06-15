@@ -18,7 +18,7 @@
 
 不具合の報告はGitHubの問題報告ページ又はTwitterのDMでしてください。
 
-GitHub不具合報告ページ→ https://github.com/NEGLOGH/BetterFarm/issues
+GitHub不具合報告ページ→ https://github.com/Neg3196/BetterFarm/issues
 
 Twitterアカウント→ https://twitter.com/Neg3196
 
